@@ -100,7 +100,7 @@ cd authentication_flutter_riverpod
 
 ## 👨‍💻 Author
 
-**David Mezza** — Full Stack Engineer | Spring Boot Enthusiast  
+**David Mezza** — Full Stack Engineer | Clean Code Advocate  
 [GitHub](https://github.com/dkmezza)
 
 
